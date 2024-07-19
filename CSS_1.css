@@ -1,0 +1,16 @@
+.main-link {
+color: red;
+text-decoration:none ;}
+.main-link:hover {
+    color: violet;
+    text-decoration:underline;
+    cursor:pointer ;
+}
+a:active {
+    text-decoration:line-through;
+}
+.ssilka_1:visited {
+    color:aquamarine
+}
+input {color:violet}
+input:focus { color: red;}
